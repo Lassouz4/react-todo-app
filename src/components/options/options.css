@@ -1,0 +1,11 @@
+.options {
+  display:flex;
+  flex-direction:column;
+  background-color: rgba(34, 28, 28, 0.685);
+  color: white;
+  margin: 0;
+  padding-top:10px;
+  padding-bottom:10px;
+  list-style-type: decimal;
+  font-weight: bold;
+}
