@@ -7,7 +7,7 @@
 <body>
  <div id="App">
 <script type="text/javascript" src="/react-todo-app/src/index.js"></script>
- <script type="text/javascript" src="/react-todo-app/src/App/index.js"></script>  
+ <script type="text/javascript" src="/react-todo-app/src/components/App/index.js"></script>  
 </div>
 
 </body></html>
