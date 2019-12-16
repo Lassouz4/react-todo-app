@@ -4,7 +4,7 @@
 <title>Dev Beers</title>
 </head>
 <body><div id="App">
-name
-</div>
 <script type="text/javascript" src="/react-todo-app/src/index.js"></script>
+</div>
+
 </body></html>
