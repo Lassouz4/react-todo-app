@@ -1,15 +1,22 @@
 # react-todo-app
+Desafio de criar aplicação TODO usando react.
 
-# Rodar o projeto local
+## Rodar o projeto local
 
 <ol>
-<li> Instalar dependência básica</li>
+<li> Instalar dependência Básica</li>
 
 Node.JS-  https://nodejs.org/en/
 
+Acessando o terminal na raiz do arquivo acesse o package.json e digite : 
+<code>
+npm install
+</code> 
+
+
 <li> Iniciar aplicação </li>
 
-Acessando o terminal na raiz do arquivo e digite
+Após acesse o terminal na raiz do arquivo e digite :
 <code>
 npm start
 </code>
