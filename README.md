@@ -8,12 +8,6 @@ Desafio de criar aplicação TODO usando react.
 
 Node.JS-  https://nodejs.org/en/
 
-Acessando o terminal na raiz do arquivo acesse o package.json e digite : 
-<code>
-npm install
-</code> 
-
-
 <li> Iniciar aplicação </li>
 
 Após acesse o terminal na raiz do arquivo e digite :
