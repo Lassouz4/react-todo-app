@@ -3,7 +3,7 @@
 # Rodar o projeto local
 
 <ol>
-<li> Intalar dependência Básica</li>
+<li> Instalar dependência básica</li>
 
 Node.JS-  https://nodejs.org/en/
 
